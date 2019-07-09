@@ -1,0 +1,2 @@
+/Users/amidanioko/Projects/FindNumber/FindNumber/obj/x86/Debug/FindNumber.csprojAssemblyReference.cache
+/Users/amidanioko/Projects/FindNumber/FindNumber/obj/x86/Debug/FindNumber.csproj.CoreCompileInputs.cache
