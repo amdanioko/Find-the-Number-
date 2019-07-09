@@ -1,0 +1,5 @@
+/Users/amidanioko/Projects/FindNumber/FindRandom/bin/Debug/FindRandom.exe
+/Users/amidanioko/Projects/FindNumber/FindRandom/bin/Debug/FindRandom.pdb
+/Users/amidanioko/Projects/FindNumber/FindRandom/obj/x86/Debug/FindRandom.csproj.CoreCompileInputs.cache
+/Users/amidanioko/Projects/FindNumber/FindRandom/obj/x86/Debug/FindRandom.exe
+/Users/amidanioko/Projects/FindNumber/FindRandom/obj/x86/Debug/FindRandom.pdb
